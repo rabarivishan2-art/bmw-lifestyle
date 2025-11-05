@@ -1,2 +1,3 @@
 # bmw-lifestyle
-there are BMW lifestyle and BMW collab with other company and BMW products that show in this
+there are BMW lifestyle and BMW collab with other company and BMW products that show in this.
+this is e-commerce web-site
